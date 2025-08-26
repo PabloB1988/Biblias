@@ -1,0 +1,24 @@
+macbook@Macbooks-MacBook-Pro K3-RB % ssh-keygen -t rsa -b 4096
+Generating public/private rsa key pair.
+Enter file in which to save the key (/Users/macbook/.ssh/id_rsa):  
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in /Users/macbook/.ssh/id_rsa
+Your public key has been saved in /Users/macbook/.ssh/id_rsa.pub
+The key fingerprint is:
+SHA256:od/IWKoDMexw6mXAK/TZ4eFp/+A+T/Q4gRvEV7r4fFg macbook@Macbooks-MacBook-Pro.local
+The key's randomart image is:
++---[RSA 4096]----+
+|           .     |
+|      .   o      |
+|..     o.o       |
+|.+=  o..+..      |
+|.=+o= =+S+ E     |
+|o.o= * **o*      |
+|o o.. +o+B.o     |
+| .  ...oo o      |
+|    ...o+o       |
++----[SHA256]-----+
+macbook@Macbooks-MacBook-Pro K3-RB % 
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDLQ6O9tGpiWKwKYfupmt8PrV4UhH9Eaq5/g+38tMF18ry3rb8qMotPSgs6hUkztiUTE0hGqP4wehC5iMsqFqlAhPNiqL//WA69zTmDprbggv/dH869FDuu+QUm+hFhBFH3+D7DaGleB5Hi01XylqjCQM16QdqGnB6RRcTZdunw6FLwDQN2bK9whychWw8rZpwcqRHScij/K9UhlLQS6Vg4g+Ete3pJze6TA7PGieIQGjOlodbaOjj7Vo7rmnLAYOwkHURYUAaEA9ZcLSoTrrld84VmKCPk4MFwnx6BNYNzAYxiGIgdsFYHYi73sPARr+fxLaE/GPo/eKf+0n+V7X2mdxo5QR5yrllRCApFFUTUVP2dd/HAodq7eE4Vilru+gtzPAk9R0u1FdMANXvyllkMuLMs3aFYW/CdRoZoWoMxYp+5Tc4QRC15VN02Q8WsPRLxUy7JdHeQxUQ6+PvSEONM5RJazxHyXq00sQ9yZ9Tehc6rgOJYDZf/zUp9lHJEtMXfDexDK93rInZ1vK224CHuaaRL3/ZY98r5oQyNJDDkvABGWElTVYyUnk0vg3Ro8U+wFdbPqzudRUPhGmOIjR2zTvVs0vnrt6j7wiifZJdo28bm7pc22MnsALixG1LCKAMpY8f61T93Jmj2Mxo7RCF0McLZIMV7bC5Z599tNt0/uQ== macbook@Macbooks-MacBook-Pro.local
