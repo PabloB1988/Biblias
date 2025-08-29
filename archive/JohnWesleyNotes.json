@@ -1,0 +1,905 @@
+{
+  "title": "John Wesley's Notes on the Bible",
+  "author": "John Wesley",
+  "format": "ThML",
+  "sections": [
+    {
+      "title": "John Wesley's Notes on The New Testament",
+      "id": "i",
+      "subsections": [
+        {
+          "title": "PREFACE",
+          "id": "i.i",
+          "content": [
+            {
+              "type": "heading",
+              "text": "PREFACE"
+            },
+            {
+              "type": "paragraph",
+              "text": "1. For many years I have had a desire of setting down and\nlaying together, what has occurred to my mind, either in reading,\nthinking, or conversation, which might assist serious persons, who have\nnot the advantage of learning, in understanding the New Testament. But I\nhave been continually deterred from attempting any thing of this kind,\nby a deep sense of my own inability: of my want, not only of learning\nfor such a work, but much more, of experience and wisdom. This has often\noccasioned my laying aside the thought. And when, by much importunity, I\nhave been prevailed upon to resume it, still I determined to delay it as\nlong as possible, that (if it should please God) I might finish my work\nand my life together."
+            },
+            {
+              "type": "paragraph",
+              "text": "2. But having lately had a loud call from God to arise and go\nhence, I am convinced that if I attempt any thing of this kind at all, I\nmust not delay any longer. My day is far spent, and (even in a natural\nway) the shadows of the evening come on apace. And I am the rather\ninduced to do what little I can in this way, because I can do nothing\nelse: being prevented, by my present weakness, from either travelling or\npreaching. But, blessed be God, I can still read, and write, and think.\nO that it may be to his glory!"
+            },
+            {
+              "type": "paragraph",
+              "text": "3. It will be easily discerned, even from what I have said\nalready, and much more from the notes themselves, that they were not\nprincipally designed for men of learning; who are provided with many\nother helps: and much less for men of long and deep experience in the\nways and word of God. I desire to sit at their feet, and to learn of\nthem. But I write chiefly for plain unlettered men, who understand only\ntheir mother tongue, and yet reverence and love the word of God, and\nhave a desire to save their souls."
+            },
+            {
+              "type": "paragraph",
+              "text": "4. In order to assist these in such a measure as I am able, I\ndesign first to set down the text itself, for the most part, in the\ncommon English translation, which is, in general, (so far as I can\njudge) abundantly the best that I have seen. Yet I do not say it is\nincapable of being brought, in several places, nearer to the original.\nNeither will I affirm, that the Greek copies from which this translation\nwas made, are always the most correct. And therefore I shall take the\nliberty, as occasion may require, to make here and there a small\nalteration."
+            },
+            {
+              "type": "paragraph",
+              "text": "5. I am very sensible this will be liable to objections: nay,\nto objections of quite opposite kinds. Some will probably think, the\ntext is altered too much; and others, that it is altered too little. To\nthe former I would observe, that I never knowingly, so much as in one\nplace, altered it for altering sake: but there, and there only, where\nfirst, the sense was made better, stronger, clearer, or more consistent\nwith the context: secondly, where the sense being equally good, the\nphrase was better or nearer the original. To the latter, who think the\nalterations too few, and that the translation might have been nearer\nstill, I answer, this is true: I acknowledge it might. But what valuable\nend would it have answered, to multiply such trivial alterations as add\nneither clearness nor strength to the text? This I could not prevail\nupon myself to do: so much the less because there is, to my\napprehension, I know not what, peculiarly solemn and venerable in the\nold language of our translation. And suppose this a mistaken\napprehension, and an instance of human infirmity; yet, is it not an\nexcusable infirmity, to be unwilling to part with what we have been long\naccustomed to; and to love the very words by which God has often\nconveyed strength or comfort to our souls!"
+            },
+            {
+              "type": "paragraph",
+              "text": "6. I have endeavoured to make the notes as short as possible\nthat the comment may not obscure or swallow up the text: and as plain as\npossible, in pursuance of my main design, to assist the unlearned\nreader: for this reason I have studiously avoided, not only all curious\nand critical inquiries, and all use of the learned languages, but all\nsuch methods of reasoning and modes of expression as people in common\nlife are unacquainted with: for the same reason, as I rather endeavour\nto obviate than to propose and answer questions, so I purposely decline\ngoing deep into many difficulties, lest I should leave the ordinary\nreader behind me."
+            },
+            {
+              "type": "paragraph",
+              "text": "7. I once designed to write down barely what occurred, to my\nown mind, consulting none but the inspired writers. But no sooner was I\nacquainted with that great light of the Christian world, (lately gone to\nhis reward, ) Bengelius, than I entirely changed my design, being\nthoroughly convinced it might be of more service to the cause of\nreligion, were I barely to translate his Gnomon Novi Testamenti, than to\nwrite many volumes upon it. Many of his excellent notes I have therefore\ntranslated. Many more I have abridged, omitting that part which was\npurely critical, and giving the substance of the rest. Those various\nreadings likewise, which he has showed to have a vast majority of\nancient copies and translations on their side, I have without scruple\nincorporated with the text; which, after his manner, I have divided all\nalong (though not omitting the common division into chapters and verses,\nwhich is of use on various accounts) according to the matter it\ncontains, making a larger or smaller pause, just as the sense requires.\nAnd even this is such a help in many places, as one who has not tried it\ncan scarcely conceive."
+            },
+            {
+              "type": "paragraph",
+              "text": "8. I am likewise indebted for some useful observations to Dr.\nHeylin's Theological Lectures: and for many more to Dr. Guyse, and to\nthe Family Expositor of the late pious and learned Dr. Doddridge. It was\na doubt with me for some time, whether I should not subjoin to every\nnote I received from them the name of the author from whom it was taken;\nespecially considering I had transcribed some, and abridged many more,\nalmost in the words of the author. But upon further consideration, I\nresolved to name none, that nothing might divert the mind of the reader\nfrom keeping close to the point in view, and receiving what was spoken\nonly according to its own intrinsic value."
+            },
+            {
+              "type": "paragraph",
+              "text": "9. I cannot flatter myself so far (to use the words of one of\nthe above-named writers) as to imagine that I have fallen into no\nmistakes in a work of so great difficulty. But my own conscience acquits\nme of having designedly misrepresented any single passage of Scripture,\nor of having written one line with a purpose of inflaming the hearts of\nChristians against each other. God forbid that I should make the words\nof the most gentle and benevolent Jesus a vehicle to convey such poison.\nWould to God that all the party names, and unscriptural phrases and\nforms, which have divided the Christian world, were forgot: and that we\nmight all agree to sit down together, as humble, loving disciples, at\nthe feet of our common Master, to hear his word, to imbibe his Spirit,\nand to transcribe his life in our own!"
+            },
+            {
+              "type": "paragraph",
+              "text": "10. Concerning the Scriptures in general, it may be observed,\nthe word of the living God, which directed the first patriarchs also,\nwas, in the time of Moses, committed to writing. To this were added, in\nseveral succeeding generations, the inspired writings of the other\nprophets. Afterward, what the Son of God preached, and the Holy Ghost\nspake by the apostles, the apostles and evangelists wrote. - This is\nwhat we now style the Holy Scripture: this is that word of God which\nremaineth forever: of which, though heaven and earth pass away, one jot\nor tittle shall not pass away. The Scripture therefore of the Old and\nNew Testament is a most solid and precious system of Divine truth.\nEvery part thereof is worthy of God; and all together are one entire\nbody, wherein is no defect, no excess. It is the fountain of heavenly\nwisdom, which they who are able to taste, prefer to all writings of men,\nhowever wise, or learned, or holy."
+            },
+            {
+              "type": "paragraph",
+              "text": "11. An exact knowledge of the truth was accompanied in the\ninspired writers with an exactly regular series of arguments, a precise\nexpression of their meaning, and a genuine vigour of suitable\naffections. The chain of argument in each book is briefly exhibited in\nthe table prefixed to it, which contains also the sum thereof, and may\nbe of more use than prefixing the argument to each chapter; the division\nof the New Testament into chapters having been made in the dark ages,\nand very incorrectly; often separating things that are closely joined,\nand joining those that are entirely distinct from each other."
+            },
+            {
+              "type": "paragraph",
+              "text": "12. In the language of the sacred writings, we may observe\nthe utmost depth, together with the utmost ease. All the elegancies of\nhuman composures sink into nothing before it: God speaks not as man, but\nas God. His thoughts are very deep: and thence his words are of\ninexhaustible virtue. And the language of his messengers also is exact\nin the highest degree: for the words which were given them accurately\nanswered the impression made upon their minds: and hence Luther says,\n\"Divinity is nothing but a grammar of the language of the Holy Ghost.\"\nTo understand this thoroughly, we should observe the emphasis which lies\non every word; the holy affections expressed thereby, and the tempers\nshown by every writer. But how little are these, the latter especially,\nregarded? Though they are wonderfully diffused through the whole New\nTestament, and are in truth a continued commendation of him who acts, or\nspeaks, or writes."
+            },
+            {
+              "type": "paragraph",
+              "text": "13. The New Testament is all those sacred writings in which\nthe New Testament or covenant is described. The former part of this\ncontains the writings of the evangelists and apostles: the latter, the\nRevelation of Jesus Christ. In the former is, first, the history of\nJesus Christ, from his coming in the flesh to his ascension into heaven;\nthen the institution and history of the Christian Church, from the time\nof his ascension. The Revelation delivers what is to be, with regard to\nChrist, the Church, and the universe, till the consummation of all\nthings. BRISTOL HOT-WELLS, January 4, 1754."
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE GOSPEL ACCORDING TO ST. MATTHEW",
+          "id": "i.ii",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE GOSPEL ACCORDING TO ST. MATTHEW"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE GOSPEL ACCORDING TO ST. MARK",
+          "id": "i.iii",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE GOSPEL ACCORDING TO ST. MARK"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE GOSPEL ACCORDING TO ST. LUKE",
+          "id": "i.iv",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE GOSPEL ACCORDING TO ST. LUKE"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE GOSPEL ACCORDING TO ST. JOHN",
+          "id": "i.v",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE GOSPEL ACCORDING TO ST. JOHN"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE ACTS OF THE APOSTLES",
+          "id": "i.vi",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE ACTS OF THE APOSTLES"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON ST. PAUL'S EPISTLE TO THE ROMANS",
+          "id": "i.vii",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON ST PAUL'S EPISTLE TO THE ROMANS"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON ST. PAUL'S FIRST EPISTLE TO THE CORINTHIANS",
+          "id": "i.viii",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON ST. PAUL'S FIRST EPISTLE TO THE CORINTHIANS"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON ST. PAUL'S SECOND EPISTLE TO THE CORINTHIANS",
+          "id": "i.ix",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON ST. PAUL'S SECOND EPISTLE TO THE CORINTHIANS"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON ST. PAUL'S EPISTLE TO THE GALATIANS",
+          "id": "i.x",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON ST. PAUL'S EPISTLE TO THE GALATIANS"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON ST. PAUL'S EPISTLE TO THE EPHESIANS",
+          "id": "i.xi",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON ST. PAUL'S EPISTLE TO THE EPHESIANS"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON ST. PAUL'S EPISTLE TO THE PHILIPPIANS",
+          "id": "i.xii",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON ST. PAUL'S EPISTLE TO THE PHILIPPIANS"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON ST. PAUL'S EPISTLE TO THE COLOSSIANS",
+          "id": "i.xiii",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON ST. PAUL'S EPISTLE TO THE COLOSSIANS"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON ST. PAUL'S FIRST EPISTLE TO THE THESSALONIANS",
+          "id": "i.xiv",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON ST. PAUL'S FIRST EPISTLE TO THE THESSALONIANS"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON ST. PAUL'S SECOND EPISTLE TO THE THESSALONIANS",
+          "id": "i.xv",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON ST. PAUL'S SECOND EPISTLE TO THE THESSALONIANS"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON ST. PAUL'S FIRST EPISTLE TO TIMOTHY",
+          "id": "i.xvi",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON ST. PAUL'S FIRST EPISTLE TO TIMOTHY"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON ST. PAUL'S SECOND EPISTLE TO TIMOTHY",
+          "id": "i.xvii",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON ST. PAUL'S SECOND EPISTLE TO TIMOTHY"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON ST. PAUL'S EPISTLE TO TITUS",
+          "id": "i.xviii",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON ST. PAUL'S EPISTLE TO TITUS"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON ST. PAUL'S EPISTLE TO PHILEMON",
+          "id": "i.xix",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON ST. PAUL'S EPISTLE TO PHILEMON"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE EPISTLE TO THE HEBREWS",
+          "id": "i.xx",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE EPISTLE TO THE HEBREWS"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE GENERAL EPISTLE OF ST. JAMES",
+          "id": "i.xxi",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE GENERAL EPISTLE OF ST. JAMES"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE FIRST EPISTLE GENERAL OF ST. PETER",
+          "id": "i.xxii",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE FIRST EPISTLE GENERAL OF ST. PETER"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE SECOND EPISTLE GENERAL OF ST. PETER",
+          "id": "i.xxiii",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE SECOND EPISTLE GENERAL OF ST. PETER"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE FIRST EPISTLE OF ST. JOHN",
+          "id": "i.xxiv",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE FIRST EPISTLE OF ST. JOHN"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE SECOND EPISTLE OF ST. JOHN",
+          "id": "i.xxv",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE SECOND EPISTLE OF ST. JOHN"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE THIRD EPISTLE OF ST. JOHN",
+          "id": "i.xxvi",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE THIRD EPISTLE OF ST. JOHN"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE GENERAL EPISTLE OF ST. JUDE",
+          "id": "i.xxvii",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE GENERAL EPISTLE OF ST. JUDE"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE REVELATION OF JOHN",
+          "id": "i.xxviii",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE REVELATION OF JOHN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "John Wesley's Notes on The Old Testament",
+      "id": "ii",
+      "subsections": [
+        {
+          "title": "PREFACE",
+          "id": "ii.i",
+          "content": [
+            {
+              "type": "heading",
+              "text": "PREFACE"
+            },
+            {
+              "type": "paragraph",
+              "text": "ABOUT ten years ago I was prevailed upon to publish\nExplanatory Notes upon the New Testament. When that work was begun, and\nindeed when it was finished, I had no design to attempt anything farther\nof the kind. Nay, I had a full determination, Not to do it, being\nthroughly fatigued with the immense labour (had it been only this; tho'\nthis indeed was but a small part of it,) of writing twice over a Quarto\nbook containing seven or eight hundred pages."
+            },
+            {
+              "type": "paragraph",
+              "text": "2. But this was scarce published before I was importuned to\nwrite Explanatory Notes upon the Old Testament. This importunity I have\nwithstood for many years. Over and above the deep conviction I had, of\nmy insufficiency for such a work, of my want of learning, of\nunderstanding, of spiritual experience, for an undertaking more\ndifficult by many degrees, than even writing on the New Testament, I\nobjected, That there were many passages in the Old, which I did not\nunderstand myself, and consequently could not explain to others, either\nto their satisfaction, or my own. Above all, I objected the want of\ntime: Not only as I have a thousand other employments, but as my Day is\nnear spent, as I am declined into the vale of years. And to this day it\nappears to me as a dream, a thing almost incredible, that I should be\nentering upon a work of this kind, when I am entering into the\nsixty-third year of my age."
+            },
+            {
+              "type": "paragraph",
+              "text": "3. Indeed these considerations, the last particular, still\nappear to me of such weight, that I cannot entertain a thought of\ncomposing a body of Notes on the whole Old Testament. All the question\nremaining was, \"Is there extant any Exposition which is worth\nabridging?\" Abundantly less time will suffice for this and less\nabilities of every kind. In considering this question, I soon turned my\nthought on the well-known Mark Henry. He is allowed by all competent\nJudges, to have been a person of strong understanding, of various\nlearning, of solid piety, and much experience in the ways of God. And\nhis exposition is generally clear and intelligible, the thoughts being\nexpressed in plain words: It is also found, agreeable to the tenor of\nscripture, and to the analogy of faith. It is frequently full, giving a\nsufficient explication of the passages which require explaining. It is\nin many parts deep, penetrating farther into the inspired writings than\nmost other comments do. It does not entertain us with vain speculations,\nbut is practical throughout: and usually spiritual too teaching us how\nto worship God, not in form only, but in spirit and in truth."
+            },
+            {
+              "type": "paragraph",
+              "text": "4. But it may be reasonably inquired, \"If Mark Henry's\nexposition be not only plain, sound, full, and deep, but practical, yea\nand spiritual too, what need is there of any other? Or how is it\npossible to mend This? to alter it for the better?\" I answer, very many\nwho have This, have no need of any other: particularly those who believe\n(what runs thro' the whole work and will much recommend it to them) the\ndoctrine of absolution, irrespective, unconditional Predestination. I do\nnot advise these, much to trouble themselves about any other exposition\nthan Mark Henry's: this is sufficient, thro' the assistance of the\nBlessed Spirit, to make private Christians wise unto salvation, and (the\nLord applying his word) throughly furnished unto every good work."
+            },
+            {
+              "type": "paragraph",
+              "text": "5. But then it is manifest on the other hand, every one\ncannot have this exposition. It is too large a purchase: there are\nthousands who would rejoice to have it; but it bears too high a price.\nThey have not Six Guineas (the London price) in the world, perhaps from\none year's end to another. And if they sometimes have, yet they have it\nnot to spare; they need it for other occasions. How much soever\ntherefore they desire so valuable a work, they must content themselves\nto go without it."
+            },
+            {
+              "type": "paragraph",
+              "text": "6. But suppose they have money enough to purchase, yet they\nhave not time enough to read it: the size is as unsurmountable an\nobjection as the price itself. It is not possible for men who have their\ndaily bread to earn by the sweat of their brows, who generally are\nconfined to their work, from six in the morning 'till six in the\nevening, to find leisure for reading over six folios, each containing\nseven or eight hundred pages. These therefore have need of some other\nexposition than Mark Henry's. As excellent as it is in its kind, it is\nnot for their purpose; seeing they have neither money to make the\npurchase, nor time to read it over."
+            },
+            {
+              "type": "paragraph",
+              "text": "7. It is very possible then to mend this work valuable as it\nis, at least by shortening it. As the grand objection to it is the size,\nthat objection may be removed: and they who at present have no\npossibility of profiting by it, while it is of so great a bulk and so\nhigh a price, may then enjoy part at least of the same advantage with\nthose who have more money and more leisure. Few I presume that have the\nwhole and leisure to read it, will concern themselves with an extract.\nBut those who cannot have all, will (for the present at least) be glad\nto have a part. And they who complain it is too short, may yet serve\nthemselves of it, 'till they can procure the long work."
+            },
+            {
+              "type": "paragraph",
+              "text": "8. But I apprehend this valuable work may be made more\nvaluable still, by making it plainer as well as shorter. Accordingly\nwhat is here extracted from it, (which indeed makes but a small part of\nthe following volumes) is considerably plainer than the original. In\norder to this not only all the Latin sentences occasionally interspersed\nare omitted, but whatever phrases or words are not so intelligible to\npersons of no education. Those only who frequently and familiarly\nconverse with men that are wholly uneducated, can conceive how many\nexpressions are mere Greek to them, which are quite natural to those who\nhave any share of learning. It is not by reading, much less by musing\nalone, that we are enabled to suit our discourse to common capacities.\nIt is only by actually talking with the vulgar, that we learn to talk in\na manner they can understand. And unless we do this, what do we profit\nthem? Do we not lose all our labour? Should we speak as angels, we\nshould be of no more use to them, than sounding brass or a tinkling\ncymbal."
+            },
+            {
+              "type": "paragraph",
+              "text": "9. Nay I apprehend what is extracted from Mark Henry's work,\nmay in some sense be more sound than the original. Understand me right:\nI mean more conformable to that glorious declaration, God willeth all\nmen to be saved, and to come to the knowledge of his truth. And let it\nnot be objected, That the making any alteration with regard to a point\nof doctrine, is a misrepresentation of the author's sense, and\nconsequently an injury done to him. It would so, is an alteration were\nmade of his words, so as to make them bear a different meaning; or if\nany words were recited as His, which he did not write. But neither of\nthese is the case. Nothing is recited here as written by him which he\ndid not write. Neither is any construction put upon his words, different\nfrom his own. But what he wrote in favour of Particular Redemption, is\ntotally left out. And of this I here give express notice to the reader\nonce for all."
+            },
+            {
+              "type": "paragraph",
+              "text": "10. Again. It certainly possible that a work abundantly\nshorter than Mark Henry's may nevertheless be considerably fuller, in\nsome particulars. There are many words which he passes over without any\nexplanation at all; as taking it for granted that the reader already\nknows the meaning of them. But this is a supposition not to be made; it\nis an entire mistake. For instance: What does a common man know of an\nOmer, or a Hin? \"Why Moses explains his own meaning: \"An Omer is the\ntenth part of an ephah.\" True; but what does the honest man know of an\nephah? Just as much as of an Omer. I suppose that which led Mark Henry\ninto these omissions, which otherwise are unaccountable, was the desire\nof not saying what others had said before, Mark Pool in particular. This\nis easily gathered from his own words, \"Mark Pool's English Annotations\nare of admirable use; especially for \"the explaining of scripture\nphrases, opening the sense and clearing \"of difficulties. I have\nindustriously declined as much as I could what \"is to be found there.\" I\nwish he had not. Or at least that he had given us the same sense in\nother words. Indeed he adds, \"Those \"and other annotations are most easy\nto be consulted upon occasion.\" Yes by those that have them: but that is\nnot the case with the generality of Mark Henry's readers. And besides\nthey may justly expect that so large a comment will leave them no\noccasion to consult others."
+            },
+            {
+              "type": "paragraph",
+              "text": "11. It is possible likewise to penetrate deeper into the\nmeaning of some scriptures than Mark Henry has done. Altho' in general\nhe is far from being a superficial writer, yet he is not always the\nsame. Indeed if he had, he must have been more than man, considering the\nvastness of his work. It was scarce possible for any human\nunderstanding, to furnish out such a number of folios, without sinking\nsometimes into trite reflections and observations, rather lively than\ndeep. A stream that runs wide and covers a large tract of land, will be\nshallow in some places. If it had been confined within a moderate\nchannel, it might have flowed deep all along."
+            },
+            {
+              "type": "paragraph",
+              "text": "12. Nay, it cannot be denied, that there may be an exposition\nof scripture more closely practical, than some parts of Mark Henry's\nare, as well as more spiritual. Even his exposition of the twentieth\nchapter of Exodus, where one would naturally have expected to find a\ncompleat scheme of Christian practice, does not answer that expectation.\nNor do I remember that he has any where given us, a satisfactory account\nof Spiritual Religion, of the kingdom of God within us, the fruit of\nChrist dwelling and reigning in the heart. This I hoped to have found\nparticularly in the exposition of our Lord's Sermon upon the mount. But\nI was quite disappointed of my hope. It was not by any means what I\nexpected."
+            },
+            {
+              "type": "paragraph",
+              "text": "13. I do not therefore intend the following Notes for a bare\nabridgment of Mark Henry's exposition. Far from it: I not only omit much\nmore than nineteen parts out of twenty of what he has written, but make\nmany alterations and many additions, well nigh from the beginning to the\nend. In particular, I everywhere omit the far greater part of his\ninferences from and improvement of the chapter. They who think these the\nmost valuable part of the work, may have recourse to the author himself.\nI likewise omit great part of almost every note, the sum of which is\nretained: as it seems to be his aim, to say as much, whereas it is mine\nto say as little as possible. And I omit abundance of quaint sayings and\nlively antitheses; as, \"God feeds his birds. Shall he not feed his\nbabes!\" \"Pharaoh's princes: his pimps rather.\" Indeed every thing of\nthis kind which occurred I have left quite untouched: altho' I am\nsensible these are the very flowers which numberless readers admire; nay\nwhich many, I doubt not, apprehend to be the chief beauties of the book.\nFor that very reason I cannot but wish, they had never had a place\ntherein; for this is a blemish, which is exceeding catching: he that\nadmires it, will quickly imitate it. I used once to wonder, whence some\nwhom I greatly esteem, had so many pretty turns in preaching. But when I\nread Mark Henry, my wonder ceased. I saw, they were only copying after\nhim: altho' many of them probably without designing or even adverting to\nit. They generally consulted his exposition of their text, and\nfrequently just before preaching. And hence little witticisms and a kind\nof archness insensibly stole upon them, and took place of that strong,\nmanly eloquence, which they would otherwise have learned from the\ninspired writers."
+            },
+            {
+              "type": "paragraph",
+              "text": "14. With regard to alterations, in what I take from Mark\nHenry, I continually alter hard words into easy, and long sentences into\nshort. But I do not knowingly alter the sense of any thing I extract\nfrom him, I only endeavour in several places, to make it more clear and\ndeterminate. I have here and there taken the liberty of altering a word\nin the text. But this I have done very sparingly, being afraid of\nventuring too far; as being conscious of my very imperfect acquaintance\nwith the Hebrew tongue. I have added very largely from Mark Pool, as\nmuch as seemed necessary for common readers, in order to their\nunderstanding those words or passages, which Mark Henry does not\nexplain. Nay, from the time that I had more maturely considered Mark\nPool's annotations on the Bible, (which was soon after I had gone thro'\nthe book of Genesis) I have extracted far more from him than from Mark\nHenry: it having been my constant method, after reading the text, first\nto read and weigh what Mark Pool observed upon every verse, and\nafterwards to consult Mark Henry's exposition of the whole paragraph. In\nconsequence of this, instead of short additions from Mark Pool to supply\nwhat was wanting in Mark Henry, (which was my first design) I now only\nmake extracts from Mark Henry, to supply so far as they are capable,\nwhat was wanting in Mark Pool. I say, so far as they are capable: for I\nstill found in needful to add to both such farther observations, as have\nfrom time to time occurred to my own mind in reading or thinking on the\nscriptures, together with such as I have occasionally extracted from\nother authors."
+            },
+            {
+              "type": "paragraph",
+              "text": "15. Every thinking man will now easily discern my design in\nthe following sheets. It is not, to write sermons, essays or set\ndiscourses, upon any part of scripture. It is not to draw inferences\nfrom the text, or to shew what doctrines may be proved thereby. It is\nthis: To give the direct, literal meaning, of every verse, of every\nsentence, and as far as I am able, of every word in the oracles of God.\nI design only, like the hand of a dial, to point every man to This: not\nto take up his mind with something else, how excellent soever: but to\nkeep his eye fixt upon the naked Bible, that he may read and hear it\nwith understanding. I say again, (and desire it may be well observed,\nthat none may expect what they will not find) It is not my design to\nwrite a book, which a man may read separate from the Bible: but barely\nto assist those who fear God, in hearing and reading the bible itself,\nby shewing the natural sense of every part, in as few and plain words as\nI can."
+            },
+            {
+              "type": "paragraph",
+              "text": "16. And I am not without hopes, that the following notes may\nin some measure answer this end, not barely to unlettered and ignorant\nmen, but also to men of education and, learning: (altho' it is true,\nneither these nor the Notes on the New Testament were principally\ndesigned for Them.) Sure I am, that tracts wrote in the most plain and\nsimple manner, are of infinitely more service to me, than those which\nare elabourated with the utmost skill, and set off with the greatest\npomp of erudition."
+            },
+            {
+              "type": "paragraph",
+              "text": "17. But it is no part of my design, to save either learned or\nunlearned men from the trouble of thinking. If so, I might perhaps write\nFolios too, which usually overlay, rather than help the thought. On the\ncontrary, my intention is, to make them think, and assist them in\nthinking. This is the way to understand the things of God; Meditate\nthereon day and night; So shall you attain the best knowledge; even to\nknow the only true God and Jesus Christ whom He hath sent. And this\nknowledge will lead you, to love Him, because he hath first loved us:\nyea, to love the Lord your God with all your heart, and with all your\nsoul, and with all your mind, and with all your strength. Will there not\nthen be all that mind in you, which was also in Christ Jesus? And in\nconsequence of this, while you joyfully experience all the holy tempers\ndescribed in this book, you will likewise be outwardly holy as He that\nhath called you is holy, in all manner of conversation."
+            },
+            {
+              "type": "paragraph",
+              "text": "18. If you desire to read the scripture in such a manner as\nmay most effectually answer this end, would it not be advisable,"
+            },
+            {
+              "type": "paragraph",
+              "text": "1. To set apart a little time, if you can,\nevery morning and evening for that purpose?"
+            },
+            {
+              "type": "paragraph",
+              "text": "2. At each time if you have leisure, to read a\nchapter out of the Old, and one out of the New Testament: is you cannot\ndo this, to take a single chapter, or a part of one?"
+            },
+            {
+              "type": "paragraph",
+              "text": "3. To read this with a single eye, to know the\nwhole will of God, and a fixt resolution to do it? In order to know his\nwill, you should,"
+            },
+            {
+              "type": "paragraph",
+              "text": "4. Have a constant eye to the analogy of faith;\nthe connection and harmony there is between those grand, fundamental\ndoctrines, Original Sin, Justification by Faith, the New Birth, Inward\nand Outward Holiness."
+            },
+            {
+              "type": "paragraph",
+              "text": "5. Serious and earnest prayer should be\nconstantly used, before we consult the oracles of God, seeing \"scripture\ncan only be understood thro' the same Spirit whereby \"it was given.\" Our\nreading should likewise be closed with prayer, that what we read may be\nwritten on our hearts."
+            },
+            {
+              "type": "paragraph",
+              "text": "6. It might also be of use, if while we read,\nwe were frequently to pause, and examine ourselves by what we read, both\nwith regard to our hearts, and lives. This would furnish us with matter\nof praise, where we found God had enabled us to conform to his blessed\nwill, and matter of humiliation and prayer, where we were conscious of\nhaving fallen short. And whatever light you then receive, should be used\nto the uttermost, and that immediately. Let there be no delay. Whatever\nyou resolve, begin to execute the first moment you can. So shall you\nfind this word to be indeed the power of God unto present and eternal\nsalvation. EDINBURGH, April 25, 1765."
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE FIRST BOOK OF MOSES CALLED GENESIS",
+          "id": "ii.ii",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE FIRST BOOK OF MOSES CALLED GENESIS"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE SECOND BOOK OF MOSES CALLED EXODUS",
+          "id": "ii.iii",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE SECOND BOOK OF MOSES CALLED EXODUS"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE THIRD BOOK OF MOSES CALLED LEVITICUS",
+          "id": "ii.iv",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE THIRD BOOK OF MOSES CALLED LEVITICUS"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE FOURTH BOOK OF MOSES CALLED NUMBERS",
+          "id": "ii.v",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE FOURTH BOOK OF MOSES CALLED NUMBERS"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE FIFTH BOOK OF MOSES CALLED DEUTERONOMY",
+          "id": "ii.vi",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE FIFTH BOOK OF MOSES CALLED DEUTERONOMY"
+            },
+            {
+              "type": "paragraph",
+              "text": "THE Greek interpreters call this book Deuteronomy, that is,\nThe second law, or a second edition of the law, bccause it is a\nrepetition of many of the laws, (as well as much of the history\ncontained in the three foregoing books. They to whom the first law was\ngiven were all dead, and a new generation sprung up, to whom God would\nhave it repeated by Moses himself, that it might make the deeper\nimpression upon them. It begins with a brief rehearsal of the most\nremarkable events, that had befallen them since they came from mount\nSinai. In the fourth chapter begins a pathetic exhortation to obedience:\nFrom the 12th to the 27th are repeated many particular laws, inforced in\nthe 27th and 28th with promises and threatnings, which are formed into a\ncovenant, chap. 29, 30. Care is taken in chap. 31. to perpetuate the\nremembrance of these things among them, particularly by a song, chap. 32\nconcluded with a blessing, chap. 33. All this was delivered by Moses to\nIsrael, in the last month of his life. See how busy this great and good\nMan was to do good, when he knew his time was short."
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE BOOK OF JOSHUA",
+          "id": "ii.vii",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE BOOK OF JOSHUA"
+            },
+            {
+              "type": "paragraph",
+              "text": "IN this book and those that follow to the end of Esther, we\nhave the history of the Jewish nation. These books, to the end of the\nsecond book of Kings, the Jewish writers call, the first book of the\nprophets: as being wrote by prophets, men divinely inspired. Indeed it\nis probable they were collections of the authentic records of the\nnation, which some of the prophets were divinely directed and assisted\nto put together. It seems the substance of the several histories was\nwritten under divine direction, when the events had just happened, and\nlong after put into the form wherein they stand now, perhaps all by the\nsame hand. In the five books of Moses we had a full account of the rise\nand constitution of the Old Testament church, the miracles by which it\nwas built up, and the laws and ordinances by which it was to be\ngoverned. And any nation that had statutes and judgments so righteous,\none would think, should have been very holy. But alas! a great part of\nthe history is a representation of their sins and miseries. For the law\nmade nothing perfect; that was to be done by the bringing in of the\nbetter hope. The book of Joshua, if not written by him, was at least\ncollected out of his journals or memoirs. It contains the history of\nIsrael under the command of Joshua: how he presided over them,"
+            },
+            {
+              "type": "paragraph",
+              "text": "1. In their entrance into Canaan, chap.\ni-v."
+            },
+            {
+              "type": "paragraph",
+              "text": "2. In their conquest of Canaan, chap.\nvi-xii."
+            },
+            {
+              "type": "paragraph",
+              "text": "3. In the distribution of the land among the\ntribes of Israel, chap. xiii-xxi."
+            },
+            {
+              "type": "paragraph",
+              "text": "4. In the establishment of religion among them,\nchap. 21-24. In all which he was a great example of wisdom, courage,\nfidelity and piety. And in this history we may see,"
+            },
+            {
+              "type": "paragraph",
+              "text": "1. Much of God and his providence; his power in\nthe kingdom of nature; his justice in punishing the Canaanites; his\nfaithfulness to his covenant with the patriarchs; his kindness to his\npeople:"
+            },
+            {
+              "type": "paragraph",
+              "text": "2. Much of Christ and his grace: Joshua being\nin many respects an eminent type of him."
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE BOOK OF JUDGES",
+          "id": "ii.viii",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE BOOK OF JUDGES"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE BOOK OF RUTH",
+          "id": "ii.ix",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE BOOK OF RUTH"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE FIRST BOOK OF SAMUEL",
+          "id": "ii.x",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE FIRST BOOK OF SAMUEL"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE SECOND BOOK OF SAMUEL",
+          "id": "ii.xi",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE SECOND BOOK OF SAMUEL"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE FIRST BOOK OF KINGS",
+          "id": "ii.xii",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE FIRST BOOK OF KINGS"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE SECOND BOOK OF KINGS",
+          "id": "ii.xiii",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE SECOND BOOK OF KINGS"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE FIRST BOOK OF CHRONICLES",
+          "id": "ii.xiv",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE FIRST BOOK OF CHRONICLES"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE SECOND BOOK OF CHRONICLES",
+          "id": "ii.xv",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE SECOND BOOK OF CHRONICLES"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE BOOK OF EZRA",
+          "id": "ii.xvi",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE BOOK OF EZRA"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE BOOK OF NEHEMIAH",
+          "id": "ii.xvii",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE BOOK OF NEHEMIAH"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE BOOK OF ESTHER",
+          "id": "ii.xviii",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE BOOK OF ESTHER"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE BOOK OF JOB",
+          "id": "ii.xix",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE BOOK OF JOB"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE BOOK OF PSALMS",
+          "id": "ii.xx",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE BOOK OF PSALMS"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE BOOK OF PROVERBS",
+          "id": "ii.xxi",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE BOOK OF PROVERBS"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE BOOK OF ECCLESIASTES",
+          "id": "ii.xxii",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE BOOK OF ECCLESIASTES"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE SONG OF SOLOMON",
+          "id": "ii.xxiii",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE SONG OF SOLOMON"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE BOOK OF ISAIAH",
+          "id": "ii.xxiv",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE BOOK OF ISAIAH"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE BOOK OF JEREMIAH",
+          "id": "ii.xxv",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE BOOK OF JEREMIAH"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE LAMENTATIONS OF JEREMIAH",
+          "id": "ii.xxvi",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE LAMENTATIONS OF JEREMIAH"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE BOOK OF EZEKIEL",
+          "id": "ii.xxvii",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE BOOK OF EZEKIEL"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE BOOK OF DANIEL",
+          "id": "ii.xxviii",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE BOOK OF DANIEL"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE BOOK OF HOSEA",
+          "id": "ii.xxix",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE BOOK OF HOSEA"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE BOOK OF JOEL",
+          "id": "ii.xxx",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE BOOK OF JOEL"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE BOOK OF AMOS",
+          "id": "ii.xxxi",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE BOOK OF AMOS"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE BOOK OF OBADIAH",
+          "id": "ii.xxxii",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE BOOK OF OBADIAH"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE BOOK OF JONAH",
+          "id": "ii.xxxiii",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE BOOK OF JONAH"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE BOOK OF MICAH.",
+          "id": "ii.xxxiv",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE BOOK OF MICAH."
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE BOOK OF NAHUM",
+          "id": "ii.xxxv",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE BOOK OF NAHUM"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE BOOK OF HABAKKUK",
+          "id": "ii.xxxvi",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE BOOK OF HABAKKUK"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE BOOK OF ZEPHANIAH.",
+          "id": "ii.xxxvii",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE BOOK OF ZEPHANIAH."
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE BOOK OF HAGGAI",
+          "id": "ii.xxxviii",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE BOOK OF HAGGAI"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE BOOK OF ZECHARIAH",
+          "id": "ii.xxxix",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE BOOK OF ZECHARIAH"
+            }
+          ]
+        },
+        {
+          "title": "NOTES ON THE BOOK OF MALACHI",
+          "id": "ii.xl",
+          "content": [
+            {
+              "type": "heading",
+              "text": "NOTES ON THE BOOK OF MALACHI"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Indexes",
+      "id": "iii",
+      "subsections": [
+        {
+          "title": "Index of Scripture References",
+          "id": "iii.i",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Index of Scripture References"
+            }
+          ]
+        },
+        {
+          "title": "Index of Scripture Commentary",
+          "id": "iii.ii",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Index of Scripture Commentary"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -267,6 +267,18 @@ curl "http://localhost:5000/search?q=amor&bible=SpanishRVR1960Bible"
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
 
+## Archivos y Directorios
+
+### Directorios principales:
+- `json_files/`: Contiene todas las biblias en formato JSON
+- `json_files/commentaries/`: Contiene todos los comentarios bíblicos en formato JSON
+- `xml_files/`: Contiene las biblias en formato XML original
+- `archive/`: Contiene archivos innecesarios o de desarrollo que han sido archivados
+
+### Archivos importantes:
+- `app.py`: Aplicación principal de la API
+- `requirements.txt`: Dependencias del proyecto
+
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
